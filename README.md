@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kerimcan Kamilçelebi</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">A passionate fullstack developer from Turkiye</h3>
 
 
 
