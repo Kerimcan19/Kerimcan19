@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kerimcan Kamilçelebi</h1>
 <h3 align="center">A passionate Fullstack developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kerimcan19&label=Profile%20views&color=0e75b6&style=flat" alt="kerimcan19" /> </p>
+
 
 - 🔭 I’m currently working on [MagicPOS](https://resto.magicpay.ai/)
 
@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerimcan19&show_icons=true&locale=en" alt="kerimcan19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerimcan19&" alt="kerimcan19" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kerimcan19&label=Profile%20views&color=0e75b6&style=flat" alt="kerimcan19" /> </p>
